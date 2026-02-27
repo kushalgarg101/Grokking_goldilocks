@@ -1,0 +1,9 @@
+.venv/
+.uv_cache/
+.wandb/
+wandb/
+results/
+results_*/
+__pycache__/
+*.pyc
+Idea
