@@ -19,13 +19,13 @@ Compact, instrumented experiments for studying grokking in tiny transformers wit
 
 ## Results
 
-![Metrics](results/dashboard.png)
+![Metrics](results\dashboard.png)
 
-![Loss Landscape](results/loss_landscape.png)
+![Loss Landscape](results\loss_landscape.png)
 
-![Attention Matrix](results/attention_snapshot.png)
+![Attention Matrix](results\attention_snapshot.png)
 
-![Singular Spectrum](results/singular_spectrum.png)
+![Singular Spectrum](results\singular_spectrum.png)
 
 ## Code Structure
 
